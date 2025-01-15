@@ -11,3 +11,4 @@ public class Array_list {
         System.out.println(name);
     }
 }
+
