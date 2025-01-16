@@ -16,7 +16,7 @@ public class FindMaxNumber {
             } 
 
         }
-        
+          
           if(secondmax*2<max){
             return index;
            }
