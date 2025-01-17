@@ -27,7 +27,7 @@ class Prime{
         }
     }
 }
-
+ 
 public class Constructor_1{
     public static  void  main(String[] args){
         Prime prime1= new Prime();
