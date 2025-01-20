@@ -1,5 +1,5 @@
 public class Fibonacci {
-
+ 
 public int fibonacci1(int n){
     int first=0;
     int second=1;
