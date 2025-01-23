@@ -2,7 +2,7 @@ import java.util.*;
 
 public class backtracking1 {
   static  int count=0;
-
+ 
   public static void permutation(String str,int id,String perm) {
     if(str.length()==0){
 
