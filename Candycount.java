@@ -5,7 +5,7 @@ public class Candycount {
             if (arr[i] % 5 == 0) {
                 count++; 
         }
-
+  
         else{
             if(money>=arr[i]){
                 count++;
