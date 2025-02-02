@@ -1,6 +1,6 @@
 import java.util.*;
 
-/* 
+
 public class getbit {
 
     public static void main(String args[]){
@@ -31,7 +31,7 @@ public class setbit {
     }
 }
 
-*/
+
 
 
 public class clarebit {
