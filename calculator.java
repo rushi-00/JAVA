@@ -24,7 +24,7 @@ public class calculator {
                 System.out.println("Invalid Division");
                 }else{
                     System.out.println(a%b);
-                
+                 
             }
             break;
             default:System.out.println("Invalid operator");
